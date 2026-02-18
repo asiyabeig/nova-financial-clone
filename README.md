@@ -55,7 +55,7 @@ This project demonstrates the ability to analyze an existing interface, break do
 ---
 
 ## 📂 Project Structure
-
+```
 Financial-Dashboard-Clone/
 │
 ├── index.html
@@ -69,7 +69,7 @@ Financial-Dashboard-Clone/
         ├── analytics.png
         └── transactions.png
 
----
+```
 
 ## 🌐 Live Website
 
