@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project was developed as part of a one-month Web Clone Internship program. The objective was to replicate a live website as accurately as possible using static web development principles including HTML, CSS, Bootstrap, and JavaScript.
+This project was developed as part of a one-month Web Clone Internship program. The objective was to replicate a live website as accurately as possible using static web development principles including HTML, CSS, Bootstrap.
 
 🔗 Reference Website:  
 https://financialdash.ccbp.tech/
